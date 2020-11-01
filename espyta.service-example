@@ -1,0 +1,9 @@
+[Unit]
+Description=espyta
+
+[Service]
+ExecStart=/home/youruser/virtual-environment/bin/espyta --configuration-path /home/youruser/espyta.toml http
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
