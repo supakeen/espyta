@@ -43,7 +43,6 @@ Table of Contents
    installation
    configuration
    usage
-   tricks
    autodoc
    changelog
 
