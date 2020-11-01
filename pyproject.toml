@@ -6,6 +6,7 @@ authors = ["supakeen <cmdr@supakeen.com>"]
 license = "MIT"
 readme = "README.md"
 keywords = ["esp", "embedded"]
+homepage = "https://supakeen.com/project/espyta"
 repository = "https://github.com/supakeen/espyta"
 classifiers = [
   "License :: OSI Approved :: MIT License",
