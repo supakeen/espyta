@@ -1,5 +1,5 @@
-pinnwand
-########
+espyta
+######
 
 Welcome to the documentation of the ``espyta`` ESP OTA webhook software.
 
@@ -42,12 +42,11 @@ Table of Contents
 
    installation
    configuration
-   usage
    autodoc
    changelog
 
-.. _GitHub: https://github.com/supakeen/pinnwand
-.. _issues: https://github.com/supakeen/pinnwand/issues
+.. _GitHub: https://github.com/supakeen/espyta
+.. _issues: https://github.com/supakeen/espyta/issues
 .. _PyPI: https://pypi.org
 .. _pip: https://pip.pypa.org
 .. _tornado: https://www.tornadoweb.org
