@@ -17,4 +17,10 @@ can then start the `espyta` HTTP server as follows:
 # python3.8 -m venv venv
 # venv/bin/pip install espyta
 # venv/bin/espyta http
-````
+```
+
+## Configuration
+
+## Documentation
+
+You can read more on our full [documentation website](https://espyta.readthedocs.io/en/latest/).
